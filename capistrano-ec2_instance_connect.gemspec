@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Adds functionality to Capistrano to allow it to connect via EC2 Instance Connect}
   spec.description   = %q{Adds functionality to Capistrano to allow it to connect via EC2 Instance Connect}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/chall8908/capistrano-ec2_instance_connect"
   spec.license       = "MIT"
   spec.required_ruby_version = Gem::Requirement.new(">= 2.3.0")
 
